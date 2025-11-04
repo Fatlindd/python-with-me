@@ -1,0 +1,16 @@
+"""
+Multiples of Ten: Ask the user for a number, and then report whether the number is a multiple of 10 or not.
+"""
+
+# Multiples of Ten
+# Ask the user for a number
+number = input("Enter a number: ")
+
+# Convert input to an integer
+number = int(number)
+
+# Check if the number is a multiple of 10
+if number % 10 == 0:
+   print(f"{number} is a multiple of 10.")
+else:
+   print(f"{number} is not a multiple of 10.")
