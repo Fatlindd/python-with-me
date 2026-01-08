@@ -1,0 +1,5 @@
+'Hello'
+'\xc7a va bien'
+'M\xfcnchen'
+'\u4f60\u597d'
+'\xa1Hola se\xf1or!'
