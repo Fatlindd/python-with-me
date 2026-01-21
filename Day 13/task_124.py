@@ -2,9 +2,9 @@
 Given a list of to-do items, print each task with its corresponding number starting from 1.
 Use the enumerate() function to handle automatic indexing.
 Format the output like:
-Buy groceries
-Call John
-Finish Python project
+ - Buy groceries
+ - Call John
+ - Finish Python project
 """
 def display_todo_list(tasks):
     print("Your To-Do List: ")
