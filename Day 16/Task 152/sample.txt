@@ -1,0 +1,3 @@
+Python is fun.
+Let's learn more.
+Built-in functions are powerful.
