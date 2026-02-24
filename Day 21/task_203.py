@@ -37,7 +37,9 @@ def sanitize_user_dump(raw_data: str) -> str:
         record = {}
 
         for part in parts:
+            print(f"part: {part}")
             key, value = part.strip().split(":", 1)
+            print(f"key: {key}, value: {value}")
             key = key.strip().lower()
             value = value.strip()
 

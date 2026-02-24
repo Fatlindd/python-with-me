@@ -1,0 +1,2 @@
+System initialized.
+Detached raw binary write
